@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sujeet301084
+- 👋 Hi, I’m Sujeet Toppo from Mumbai India
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Python Programming Language and its applications, learning Data Science and Machine Learning as well.
 - 💞️ I’m looking to collaborate on ...
