@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Sujeet Toppo from Mumbai India
-- 👀 I’m interested in 
-- 🌱 I’m currently learning Python Programming Language and its applications, learning Data Science and Machine Learning as well.
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me sujeet301084@gmail.com
+- 👋 Hi, I’m Sujeet Toppo a Data Science Professional from Mumbai, India
+- 👀 I’m interested in Data Analysis, Exploratory Data Analysis(EDA)
+- 🌱 I’m currently learning Data Science and Machine Learning.
+- 💞️ I’m looking to collaborate on EDA Projects
+- 📫 You can reach me sujeetkronik@gmail.com
 
 <!---
 sujeet301084/sujeet301084 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
