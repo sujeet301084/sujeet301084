@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sujeet Toppo a Data Science Professional from Mumbai, India
 - 👀 I’m interested in Data Analysis, Exploratory Data Analysis(EDA), Data Visualization.
-- 🌱 I’m currently learning Data Sceince and Machine Learning from INSAID.
-- 💞️ I’m looking to collaborate on EDA Projects
+- 🌱 I’m currently persuing Global Certification in Data Science and Machine Learning from INSAID.
+- 💞️ I’m looking to collaborate on EDA Projects and Machine Learning Projects.
 - 📫 You can reach me sujeetkronik@gmail.com
 
 <!---
